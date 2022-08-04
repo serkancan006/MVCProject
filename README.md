@@ -1,5 +1,7 @@
 # MVCProject
 In this project, framework platform and code first approach are used.
+
+
 ![Screenshot_1](https://user-images.githubusercontent.com/109299838/182910246-bef011e3-5d43-40af-b585-fe30ac9bb188.png)
 ![Screenshot_2](https://user-images.githubusercontent.com/109299838/182910252-a149a8b2-4091-419a-a23a-d0ee767dc9ec.png)
 ![Screenshot_3](https://user-images.githubusercontent.com/109299838/182910262-c7a42765-10a2-4181-b4d7-425fa52ea2e8.png)
