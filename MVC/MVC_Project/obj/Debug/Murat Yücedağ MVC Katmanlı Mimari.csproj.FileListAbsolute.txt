@@ -1,0 +1,294 @@
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\Murat Yücedağ MVC Katmanlı Mimari.dll.config
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\Murat Yücedağ MVC Katmanlı Mimari.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\Murat Yücedağ MVC Katmanlı Mimari.pdb
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\csc.exe
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\csc.exe.config
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\csc.rsp
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\csi.exe
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\csi.exe.config
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\csi.rsp
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.AppContext.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Console.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.IO.Compression.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Net.Http.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.ValueTuple.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\vbc.exe
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\vbc.exe.config
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\vbc.rsp
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\VBCSCompiler.exe
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\Antlr3.Runtime.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\Newtonsoft.Json.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\System.Web.Helpers.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\System.Web.Mvc.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\System.Web.Optimization.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\System.Web.Razor.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\System.Web.WebPages.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\System.Web.WebPages.Razor.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\WebGrease.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\System.Web.Helpers.xml
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\System.Web.Mvc.xml
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\System.Web.Optimization.xml
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\System.Web.Razor.xml
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\System.Web.WebPages.xml
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\System.Web.WebPages.Razor.xml
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\Newtonsoft.Json.xml
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\Antlr3.Runtime.pdb
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\obj\Debug\Murat Yücedağ MVC Katmanlı Mimari.csproj.AssemblyReference.cache
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\obj\Debug\Murat Yücedağ MVC Katmanlı Mimari.csproj.CoreCompileInputs.cache
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\obj\Debug\Murat Yücedağ MVC Katmanlı Mimari.csproj.CopyComplete
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\obj\Debug\Murat Yücedağ MVC Katmanlı Mimari.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\obj\Debug\Murat Yücedağ MVC Katmanlı Mimari.pdb
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\BusinessLayer.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\DataAccessLayer.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\EntityLayer.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\EntityFramework.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\BusinessLayer.pdb
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\BusinessLayer.dll.config
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\DataAccessLayer.pdb
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\DataAccessLayer.dll.config
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\EntityLayer.pdb
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\EntityLayer.dll.config
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\EntityFramework.xml
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\EntityFramework.SqlServer.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\EntityFramework.SqlServer.xml
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\FluentValidation.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\FluentValidation.xml
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\PagedList.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\PagedList.Mvc.dll
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\PagedList.xml
+C:\Users\Serkan Can\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\PagedList.Mvc.xml
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\Murat Yücedağ MVC Katmanlı Mimari.dll.config
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\Murat Yücedağ MVC Katmanlı Mimari.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\Murat Yücedağ MVC Katmanlı Mimari.pdb
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\csc.exe
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\csc.exe.config
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\csc.rsp
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\csi.exe
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\csi.exe.config
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\csi.rsp
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.AppContext.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Console.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.IO.Compression.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Net.Http.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.ValueTuple.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\vbc.exe
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\vbc.exe.config
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\vbc.rsp
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\VBCSCompiler.exe
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\Antlr3.Runtime.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\BusinessLayer.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\DataAccessLayer.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\EntityFramework.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\EntityFramework.SqlServer.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\EntityLayer.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\FluentValidation.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\Newtonsoft.Json.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\PagedList.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\PagedList.Mvc.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\System.Web.Helpers.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\System.Web.Mvc.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\System.Web.Optimization.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\System.Web.Razor.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\System.Web.WebPages.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\System.Web.WebPages.Razor.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\WebGrease.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\BusinessLayer.pdb
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\BusinessLayer.dll.config
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\DataAccessLayer.pdb
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\DataAccessLayer.dll.config
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\EntityLayer.pdb
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\EntityLayer.dll.config
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\EntityFramework.xml
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\EntityFramework.SqlServer.xml
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\FluentValidation.xml
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\PagedList.xml
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\PagedList.Mvc.xml
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\System.Web.Helpers.xml
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\System.Web.Mvc.xml
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\System.Web.Optimization.xml
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\System.Web.Razor.xml
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\System.Web.WebPages.xml
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\System.Web.WebPages.Razor.xml
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\Newtonsoft.Json.xml
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\Antlr3.Runtime.pdb
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\obj\Debug\Murat Yücedağ MVC Katmanlı Mimari.csproj.AssemblyReference.cache
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\obj\Debug\Murat Yücedağ MVC Katmanlı Mimari.csproj.CoreCompileInputs.cache
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\obj\Debug\Murat Yücedağ MVC Katmanlı Mimari.csproj.CopyComplete
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\obj\Debug\Murat Yücedağ MVC Katmanlı Mimari.dll
+C:\Users\SerkanCan\source\repos\Murat Yücedağ MVC Katmanlı Mimari\obj\Debug\Murat Yücedağ MVC Katmanlı Mimari.pdb
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\Murat Yücedağ MVC Katmanlı Mimari.dll.config
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\Murat Yücedağ MVC Katmanlı Mimari.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\Murat Yücedağ MVC Katmanlı Mimari.pdb
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\csc.exe
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\csc.exe.config
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\csc.rsp
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\csi.exe
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\csi.exe.config
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\csi.rsp
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\System.AppContext.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\System.Console.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\System.Net.Http.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\vbc.exe
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\vbc.exe.config
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\vbc.rsp
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\Antlr3.Runtime.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\BusinessLayer.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\DataAccessLayer.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\EntityFramework.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\EntityFramework.SqlServer.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\EntityLayer.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\FluentValidation.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\Newtonsoft.Json.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\PagedList.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\PagedList.Mvc.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\System.Web.Helpers.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\System.Web.Mvc.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\System.Web.Optimization.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\System.Web.Razor.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\System.Web.WebPages.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\WebGrease.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\BusinessLayer.pdb
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\BusinessLayer.dll.config
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\DataAccessLayer.pdb
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\DataAccessLayer.dll.config
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\EntityLayer.pdb
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\EntityLayer.dll.config
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\EntityFramework.xml
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\EntityFramework.SqlServer.xml
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\FluentValidation.xml
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\PagedList.xml
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\PagedList.Mvc.xml
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\System.Web.Helpers.xml
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\System.Web.Mvc.xml
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\System.Web.Optimization.xml
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\System.Web.Razor.xml
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\System.Web.WebPages.xml
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\Newtonsoft.Json.xml
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\Antlr3.Runtime.pdb
+C:\Users\SerkanCan\source\repos\MVC_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SerkanCan\source\repos\MVC_Project\obj\Debug\Murat Yücedağ MVC Katmanlı Mimari.csproj.AssemblyReference.cache
+C:\Users\SerkanCan\source\repos\MVC_Project\obj\Debug\Murat Yücedağ MVC Katmanlı Mimari.csproj.CoreCompileInputs.cache
+C:\Users\SerkanCan\source\repos\MVC_Project\obj\Debug\Murat Yücedağ MVC Katmanlı Mimari.csproj.CopyComplete
+C:\Users\SerkanCan\source\repos\MVC_Project\obj\Debug\Murat Yücedağ MVC Katmanlı Mimari.dll
+C:\Users\SerkanCan\source\repos\MVC_Project\obj\Debug\Murat Yücedağ MVC Katmanlı Mimari.pdb

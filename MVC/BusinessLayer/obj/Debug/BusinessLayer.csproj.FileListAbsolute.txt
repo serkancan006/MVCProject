@@ -1,0 +1,40 @@
+C:\Users\Serkan Can\source\repos\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\Serkan Can\source\repos\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Serkan Can\source\repos\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Serkan Can\source\repos\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Serkan Can\source\repos\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Serkan Can\source\repos\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Serkan Can\source\repos\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Serkan Can\source\repos\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Serkan Can\source\repos\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Serkan Can\source\repos\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Serkan Can\source\repos\BusinessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\Serkan Can\source\repos\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Serkan Can\source\repos\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Serkan Can\source\repos\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Serkan Can\source\repos\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Serkan Can\source\repos\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Serkan Can\source\repos\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Serkan Can\source\repos\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Serkan Can\source\repos\BusinessLayer\bin\Debug\FluentValidation.dll
+C:\Users\Serkan Can\source\repos\BusinessLayer\bin\Debug\FluentValidation.xml
+C:\Users\SerkanCan\source\repos\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\SerkanCan\source\repos\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\SerkanCan\source\repos\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\SerkanCan\source\repos\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\SerkanCan\source\repos\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\SerkanCan\source\repos\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SerkanCan\source\repos\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\SerkanCan\source\repos\BusinessLayer\bin\Debug\FluentValidation.dll
+C:\Users\SerkanCan\source\repos\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\SerkanCan\source\repos\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\SerkanCan\source\repos\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\SerkanCan\source\repos\BusinessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\SerkanCan\source\repos\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\SerkanCan\source\repos\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SerkanCan\source\repos\BusinessLayer\bin\Debug\FluentValidation.xml
+C:\Users\SerkanCan\source\repos\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\SerkanCan\source\repos\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\SerkanCan\source\repos\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\SerkanCan\source\repos\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\SerkanCan\source\repos\BusinessLayer\obj\Debug\BusinessLayer.pdb

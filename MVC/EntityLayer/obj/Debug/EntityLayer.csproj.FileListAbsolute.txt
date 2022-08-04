@@ -1,0 +1,24 @@
+C:\Users\Serkan Can\source\repos\EntityLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\Serkan Can\source\repos\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\Serkan Can\source\repos\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Serkan Can\source\repos\EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\Serkan Can\source\repos\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Serkan Can\source\repos\EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\Serkan Can\source\repos\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Serkan Can\source\repos\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Serkan Can\source\repos\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+C:\Users\Serkan Can\source\repos\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\Serkan Can\source\repos\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\Serkan Can\source\repos\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\SerkanCan\source\repos\EntityLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\SerkanCan\source\repos\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\SerkanCan\source\repos\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\SerkanCan\source\repos\EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\SerkanCan\source\repos\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SerkanCan\source\repos\EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\SerkanCan\source\repos\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SerkanCan\source\repos\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\SerkanCan\source\repos\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\SerkanCan\source\repos\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+C:\Users\SerkanCan\source\repos\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\SerkanCan\source\repos\EntityLayer\obj\Debug\EntityLayer.pdb

@@ -1,0 +1,54 @@
+C:\Users\Serkan Can\source\repos\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Serkan Can\source\repos\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Serkan Can\source\repos\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Serkan Can\source\repos\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Serkan Can\source\repos\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Serkan Can\source\repos\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Serkan Can\source\repos\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Serkan Can\source\repos\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\Serkan Can\source\repos\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Serkan Can\source\repos\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Serkan Can\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Serkan Can\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Serkan Can\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Serkan Can\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Serkan Can\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Serkan Can\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
+C:\Users\Serkan Can\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\Serkan Can\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_edit.resources
+C:\Users\Serkan Can\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writertittle_add.resources
+C:\Users\Serkan Can\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_imagesizechange.resources
+C:\Users\Serkan Can\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_addstatus.resources
+C:\Users\Serkan Can\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_content_addstatuscolumn.resources
+C:\Users\Serkan Can\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_heading_addstatuscolumn.resources
+C:\Users\Serkan Can\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_add_message_class.resources
+C:\Users\Serkan Can\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_contact_add_date.resources
+C:\Users\Serkan Can\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_addimage_file.resources
+C:\Users\Serkan Can\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_admin_table_add.resources
+C:\Users\SerkanCan\source\repos\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\SerkanCan\source\repos\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\SerkanCan\source\repos\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\SerkanCan\source\repos\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\SerkanCan\source\repos\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SerkanCan\source\repos\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\SerkanCan\source\repos\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\SerkanCan\source\repos\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\SerkanCan\source\repos\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\SerkanCan\source\repos\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SerkanCan\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\SerkanCan\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
+C:\Users\SerkanCan\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_edit.resources
+C:\Users\SerkanCan\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writertittle_add.resources
+C:\Users\SerkanCan\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_imagesizechange.resources
+C:\Users\SerkanCan\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_addstatus.resources
+C:\Users\SerkanCan\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_content_addstatuscolumn.resources
+C:\Users\SerkanCan\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_heading_addstatuscolumn.resources
+C:\Users\SerkanCan\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_add_message_class.resources
+C:\Users\SerkanCan\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_contact_add_date.resources
+C:\Users\SerkanCan\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_addimage_file.resources
+C:\Users\SerkanCan\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_admin_table_add.resources
+C:\Users\SerkanCan\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\SerkanCan\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\SerkanCan\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\SerkanCan\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\SerkanCan\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
